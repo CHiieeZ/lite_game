@@ -1,3 +1,5 @@
-import one from "../modules/one.js";
+import mainModule from "./modules/rg-move"
+// import timerModule from "./modules/timer"
 
-one()
+mainModule()
+// timerModule()
